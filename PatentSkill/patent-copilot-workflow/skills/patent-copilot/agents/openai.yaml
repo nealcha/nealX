@@ -1,0 +1,4 @@
+interface:
+  display_name: "Patent Copilot"
+  short_description: "AI-selected patent direction, drafting, and bundled review"
+  default_prompt: "Use $patent-copilot to analyze local patent PDFs and research notes, choose one utility-model direction by yourself, produce a reviewed patent package, and optionally build a domain explainer."
